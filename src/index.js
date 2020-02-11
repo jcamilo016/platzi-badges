@@ -7,9 +7,10 @@ container.appendChild(element);*/
 
 import React from 'react';
 import ReactDOM from 'react-dom';
-import BadgeNew from './pages/badjeNew'
+import BadgeNew from './pages/badjeNew';git
+import Badges from './pages/Badges'
 import 'bootstrap/dist/css/bootstrap.css';
-import './global.css'
+import './global.css';
 
 /*const jsx = <h1>Hello, Platzi Badges from React!</h1>;
 const element = React.createElement('h1', {}, 'Hola! soy el texto');
@@ -38,8 +39,8 @@ const element4 = React.createElement(
     , React.createElement('p', {}, 'Soy ingeniero de front end')
 );*/
 
-const component1 = <BadgeNew/>;
-;
+const component1 = <Badges/>;
+
 
 //ReactDOM.render(___qué____,___dónde___)
 /*ReactDOM.render(jsx2, container);
