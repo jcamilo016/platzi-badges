@@ -7,8 +7,7 @@ container.appendChild(element);*/
 
 import React from 'react';
 import ReactDOM from 'react-dom';
-import BadgeNew from './pages/badjeNew';git
-import Badges from './pages/Badges'
+import App from './components/App'
 import 'bootstrap/dist/css/bootstrap.css';
 import './global.css';
 
@@ -39,12 +38,12 @@ const element4 = React.createElement(
     , React.createElement('p', {}, 'Soy ingeniero de front end')
 );*/
 
-const component1 = <Badges/>;
+//const component1 = <Badges/>;
 
 
 //ReactDOM.render(___qué____,___dónde___)
 /*ReactDOM.render(jsx2, container);
 ReactDOM.render(element2, container2);
 ReactDOM.render(element4, container);*/
-ReactDOM.render(component1, container);
+ReactDOM.render(<App/>, container);
 
