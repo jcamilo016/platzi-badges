@@ -5,6 +5,7 @@
 .BadgesListItem {
     background: #FFFFFF;
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.23);
+    margin-bottom: 10px;
     border-radius: 5px;
     display: flex;
     padding: 1rem;

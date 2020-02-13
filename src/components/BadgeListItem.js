@@ -10,13 +10,15 @@ class BadgesListItem extends React.Component {
                     className="BadgesListItem__avatar"
                     src={this.props.badge.avatarUrl}
                     alt={`${this.props.badge.firstName} ${this.props.badge.lastName}`}
+                    //src={this.props.badge.image}
+                    //alt={`${this.props.badge.name} ${this.props.badge.lastName}`}
                 />
 
                 <div>
                     <strong>
                         {this.props.badge.firstName} {this.props.badge.lastName}
                     </strong>
-                    <br />@{this.props.badge.twitter}
+                    <br />@{this.props.badge.twitter.replace(/\s+/g, '','').toLowerCase()}
                     <br />
                     {this.props.badge.jobTitle}
                 </div>

@@ -1,4 +1,4 @@
-.BadgeNew__hero {
+.BadgeEdit__hero {
     display: flex;
     justify-content: center;
     width: 100%;
@@ -9,6 +9,10 @@
     color: #ffffff;
 }
 
-.BadgeNew__hero-image {
+.BadgeEdit__hero-image {
     max-height: 100px;
+}
+
+.BadgeEdit__btn {
+    margin-top: 10px;
 }

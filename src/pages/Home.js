@@ -8,7 +8,7 @@ import astronautsImage from '../images/astronauts.svg';
 export default class Home extends Component {
     render() {
         return (
-            <React.Fragment className="Home">
+            <div className="Home">
                 <div className="container">
                     <div className="row">
                         <div className="Home__col col-12 col-md-4">
@@ -33,7 +33,7 @@ export default class Home extends Component {
                         </div>
                     </div>
                 </div>
-            </React.Fragment>
+            </div>
         );
     }
 }

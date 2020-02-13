@@ -1,21 +1,12 @@
 {
   "badges": [
     {
-      "id": "2de30c42-9deb-40fc-a41f-05e62b5939a7",
-      "firstName": "Freda",
-      "lastName": "Grady",
-      "email": "Leann_Berge@gmail.com",
-      "jobTitle": "Legacy Brand Director",
-      "twitter": "FredaGrady22221-7573",
-      "avatarUrl": "https://www.gravatar.com/avatar/f63a9c45aca0e7e7de0782a6b1dff40b?d=identicon"
-    },
-    {
       "id": "d00d3614-101a-44ca-b6c2-0be075aeed3d",
-      "firstName": "Major",
+      "firstName": "Alex",
       "lastName": "Rodriguez",
       "email": "Ilene66@hotmail.com",
       "jobTitle": "Human Research Architect",
-      "twitter": "MajorRodriguez61545",
+      "twitter": "MajorRodriguez",
       "avatarUrl": "https://www.gravatar.com/avatar/d57a8be8cb9219609905da25d5f3e50a?d=identicon"
     },
     {
@@ -33,7 +24,7 @@
       "lastName": "Von",
       "email": "Herminio.Schmeler@hotmail.com",
       "jobTitle": "Central Branding Representative",
-      "twitter": "TatyanaVon35871-3686",
+      "twitter": "TatyanaVon",
       "avatarUrl": "https://www.gravatar.com/avatar/98c382edd93414c1649b9db866000f97?d=identicon"
     },
     {
@@ -440,6 +431,123 @@
       "jobTitle": "Lawyer",
       "twitter": "ckaufmanpr",
       "id": "npaYZKI"
+    },
+    {
+      "firstName": "Juan",
+      "lastName": "Acosta",
+      "email": "juan.acosta@10pearls.com",
+      "jobTitle": "Ingeniero",
+      "twitter": "jcamilo016",
+      "id": "Nt__kV0",
+      "avatarUrl": "https://www.gravatar.com/avatar/453ebc7a6d67ed777a1c096b4f37c4ce?d=identicon"
+    },
+    {
+      "firstName": "Juan",
+      "lastName": "Ramirez",
+      "email": "juan.ramirez@10pearls.com",
+      "jobTitle": "periodista",
+      "twitter": "juanramirez",
+      "id": "FIM-NVR",
+      "avatarUrl": "https://www.gravatar.com/avatar/1750b9809d38378861cef39ef97e5010?d=identicon"
+    },
+    {
+      "firstName": "Jose",
+      "lastName": "Ruiz",
+      "email": "ppplpps@chichichilele.com",
+      "jobTitle": "QA Analyst",
+      "twitter": "ppplpps",
+      "avatarUrl": "https://www.gravatar.com/avatar/2ede05383c3a70aa3ec20d9ac8dcf1be?d=identicon",
+      "id": "UMnFJpO"
+    },
+    {
+      "firstName": "Elsa",
+      "lastName": "Polindo",
+      "email": "zoielsapolindo@gmail.com",
+      "jobTitle": "chef",
+      "twitter": "sapitolindo",
+      "avatarUrl": "https://www.gravatar.com/avatar/66a3812e2ca036563d8a11f221f70982?d=identicon",
+      "id": "DlgIrgZ"
+    },
+    {
+      "firstName": "jud",
+      "lastName": "Acosta",
+      "email": "jcamilo016@hotmail.com",
+      "jobTitle": "Ingeniero",
+      "twitter": "pedroramirez",
+      "avatarUrl": "https://www.gravatar.com/avatar/0187cbba73babfbf21ad70b0d73ac5f5?d=identicon",
+      "id": "x_kQQxq"
+    },
+    {
+      "firstName": "jud",
+      "lastName": "Ramirez",
+      "email": "juan.acosta@10pearls.com",
+      "jobTitle": "periodista",
+      "twitter": "ppacs3",
+      "avatarUrl": "https://www.gravatar.com/avatar/b23171259222e09616cc4083e5073786?d=identicon",
+      "id": "rBG0yq6"
+    },
+    {
+      "firstName": "Deborah",
+      "lastName": "Meltrozo",
+      "email": "pamelachu@gmail.com",
+      "jobTitle": "Cantante",
+      "twitter": "deborahmelo",
+      "avatarUrl": "https://www.gravatar.com/avatar/9fb84b43284905441b60ef81c5f729fc?d=identicon",
+      "id": "YMevo9E"
+    },
+    {
+      "firstName": "zoila",
+      "lastName": "mosa",
+      "email": "lamasp@zoila.com",
+      "jobTitle": "Sugar bby",
+      "twitter": "ziolamasbtx",
+      "avatarUrl": "https://www.gravatar.com/avatar/6b246c6b2d9fd1e7341a2bbf997f4e6d?d=identicon",
+      "id": "gNh1q3b"
+    },
+    {
+      "firstName": "Juan Camilo",
+      "lastName": "Acosta",
+      "email": "pedro@ramirez.com",
+      "jobTitle": "Desarrollafor",
+      "twitter": "ppacs8",
+      "avatarUrl": "https://www.gravatar.com/avatar/af0c8aabbd44fd794d749003c968f4ee?d=identicon",
+      "id": "cBhTXCk"
+    },
+    {
+      "firstName": "Leo",
+      "lastName": "Ramirez",
+      "email": "leoRam@hotmail.com",
+      "jobTitle": "arquitecto",
+      "twitter": "leoram",
+      "avatarUrl": "https://www.gravatar.com/avatar/35cfe9244969d006c77446ce3636f922?d=identicon",
+      "id": "Tkv_Vhi"
+    },
+    {
+      "firstName": "Luis Felipe",
+      "lastName": "Dominguez",
+      "email": "ldominguez@banktrade.com",
+      "jobTitle": "Desarrollador",
+      "twitter": "ldominguez",
+      "avatarUrl": "https://www.gravatar.com/avatar/7e888e9d19f39d62e4e83ea122299f02?d=identicon",
+      "id": "Yfu0ILj"
+    },
+    {
+      "firstName": "Rodrigo",
+      "lastName": "Osorio",
+      "email": "roro@gmail.com",
+      "jobTitle": "Ingeniero industrial",
+      "twitter": "roro123",
+      "avatarUrl": "https://www.gravatar.com/avatar/a7ed9988b53d468b004376349a3f6573?d=identicon",
+      "id": "eHFLiFj"
+    },
+    {
+      "firstName": "Gerardo",
+      "lastName": "Osorio",
+      "email": "gero@gmail.com",
+      "jobTitle": "Ingeniero industrial",
+      "twitter": "gero123",
+      "avatarUrl": "https://www.gravatar.com/avatar/bbe37cf0ff56e875c3d2b63df9813508?d=identicon",
+      "id": "4SxxNDj"
     }
   ]
 }
